@@ -1,6 +1,11 @@
 :root {
     --text: black;
     --background: white;
+    --black: #171A21;
+    --gray: #494646;
+    --yellow: #FFFC31;
+    --green: #60D394;
+    --blue: #7D83FF;
 }
 
 /* Removes all the stupid things from browser and makes sure everything fits well. */
